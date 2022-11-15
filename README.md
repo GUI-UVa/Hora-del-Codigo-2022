@@ -1,1 +1,1 @@
-![QR](https://github.com/santiagosimonsantos/Taller-introductorio-a-la-Programacion-Orientada-a-Objetos-con-Java/blob/main/Diagrama.svg)
+![QR](https://github.com/GUI-UVa/Hora-del-Codigo-2022/blob/main/QR.svg)
